@@ -1,4 +1,4 @@
-const API_URL = "/api/auth"
+const API_URL = "https://auth-fullstack-clean.onrender.com/api/auth"
 
 const message = document.getElementById("message")
 
